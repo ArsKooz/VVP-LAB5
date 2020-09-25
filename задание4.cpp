@@ -6,7 +6,7 @@ int main()
     setlocale(LC_ALL, "Rus");
     int x1, x2, y1, y2;
     int AC, BC;
-    cout << "введите координаты точек вершины\n";
+    cout << "Р’РІРµРґРёС‚Рµ Р·РЅР°С‡РµРЅРёРµ РєРѕРѕСЂРґРёРЅР°С‚\n";
     cin >> x1 >> y1 >> x2 >> y2 ;
     AC = abs(x1-x2);
     BC = abs(y1-y2);
